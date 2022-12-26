@@ -6,7 +6,7 @@
 
 ### Login credentials to get Token:
 
-**username: admin**
+**username: admin**<br>
 **password: admin**
 
 You will find **Postman file for import** under root folder with `postman_collection.json`
@@ -17,3 +17,5 @@ You will find **Postman file for import** under root folder with `postman_collec
 - Express.js
 - Joi
 - Docker
+
+### I should not have commited .env file, but for you to test it easier I decided to commit it.
